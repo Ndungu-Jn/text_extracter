@@ -1,0 +1,14 @@
+#pyhton
+
+.venv/
+__pycache__/
+*.pyc
+
+#Node
+
+node_modules/
+dist/
+
+#Secrets and OS files
+.env
+.DS_Store
